@@ -2,7 +2,6 @@
  Github,AWS,Jenkins,Docker
 
 # Docker_Commands
-
 ## Automated_Pipeline
 ```
 ls
