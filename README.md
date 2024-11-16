@@ -1,6 +1,18 @@
 # DevOps_Project
  Github,AWS,Jenkins,Docker
 
+## Commands
+```
+ls
+docker build -t auto .
+docker images
+```
+
+```
+docker rm -f devops
+docker run -d --name devops -p 80:80 auto
+```
+
 ## AWS_DashBoard
 ![1  AWS Dashboard](https://github.com/user-attachments/assets/7c0da102-ccbb-450e-8750-257c1e412550)
 
