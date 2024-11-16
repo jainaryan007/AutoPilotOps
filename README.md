@@ -1,13 +1,15 @@
 # DevOps_Project
  Github,AWS,Jenkins,Docker
 
-## Commands
+# Docker_Commands
+
+## Automated_Pipeline
 ```
 ls
 docker build -t auto .
 docker images
 ```
-
+## Docker_run_final
 ```
 docker rm -f devops
 docker run -d --name devops -p 80:80 auto
