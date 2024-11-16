@@ -2,10 +2,10 @@
 Tools Used: Github,AWS,Jenkins,Docker
 
 ## Description: 
-#### 1)Built a CI/CD Pipeline using Jenkins for automated testing and deployment.
-#### 2)Containerized the application with Docker for consistent environments.
-#### 3)Deployed on AWS for scalable cloud hosting.
-#### 4)Integrated GitHub for version control and streamlined workflow.
+ 1. Built a CI/CD Pipeline using Jenkins for automated testing and deployment.
+ 2. Containerized the application with Docker for consistent environments.
+ 3. Deployed on AWS for scalable cloud hosting.
+ 4. Integrated GitHub for version control and streamlined workflow.
 
 # Docker_Commands
 ## Automated_Pipeline
